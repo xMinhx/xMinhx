@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2358B1F7&size=28&center=true&vCenter=true&width=450&height=100&lines=Hello+and+welcome+to+my+profile+%E2%98%BA%EF%B8%8F.;And+hello+there...;General+Kenobi)"</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2358B1F7&size=28&center=true&vCenter=true&width=450&height=100&lines=Hello+and+welcome+to+my+profile+%E2%98%BA%EF%B8%8F.;And+hello+there...;General+Kenobi"</p>
  <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
 
