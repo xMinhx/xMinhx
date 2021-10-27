@@ -20,12 +20,14 @@ My specialization is machine learning and data science while I am also intereste
  <br>
 
    <h3 align="center">🛠️ Techstacks 🛠️</h3>
+   
+ ---
      
  <br> 
 
  <h4 align="center"> Languages</h4>
  
- ---
+ 
  <p align="center">
   <img height="50px" src="https://www.crosssoft.de/wp-content/uploads/2019/03/java-icon.png" title="Java">
   <img height="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python">
@@ -38,7 +40,7 @@ My specialization is machine learning and data science while I am also intereste
 
  <h4 align="center"> Frameworks & Tools</h4>
    
-   ---
+  
  <p align="left">   
    <img height="50px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django">
    <img height="50px" src="https://www.vlinde.de/wp-content/uploads/2019/06/1024px-Git_icon.svg1_.png" title="git">
