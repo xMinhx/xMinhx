@@ -39,7 +39,7 @@ My specialization is machine learning and data science while I am also intereste
  <h4 align="center"> Frameworks & Tools</h4>
    
    ---
- <p align="center">   
+ <p align="left">   
    <img height="50px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django">
    <img height="50px" src="https://www.vlinde.de/wp-content/uploads/2019/06/1024px-Git_icon.svg1_.png" title="git">
    <img height="50px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" title="MySQL">
