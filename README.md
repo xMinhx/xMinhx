@@ -6,7 +6,7 @@
  
 my name is Minh Truong and I'm currently studying in germany at the university of applied science [Bonn-Rhein-Sieg](https://www.h-brs.de/de),
 trying to finish my bachelor on the summer months in 2022. <br>
-My specialization is machine learning and data science while I am also interested in full stack web development.
+My specialization is machine learning and data science, due to my work I am also familiar with SecDevOps, with a focus on vulnerabilities in open source dependencies. I am also interested in full stack web development.
 
  <img src="Image.svg" align="right" alt="drawing" width="450"/>
  <!-- https://storyset.com/ -->
