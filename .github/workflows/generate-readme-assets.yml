@@ -32,15 +32,15 @@ jobs:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css,jupyter%20notebook"
           path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
