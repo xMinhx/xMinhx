@@ -21,7 +21,7 @@ I like creating things. Some are useful, some are experiments, and some probably
 <br>
 My research is currently about **distributed key management systems** and **security-critical IT infrastructure**. <br>More specifically, I look at how different KMS architectures behave under load, scaling pressure, and failure.
 
-Right now, I’m a **Graduate Research Assistant at UNB / CAS Atlantic**, working with **45Drives** as an industry partner.
+Right now, I’m a **Graduate Researcher at UNB / CAS Atlantic**, working with **45Drives** as an industry partner.
 
 <br clear="right" />
 
