@@ -16,22 +16,22 @@
 </div>
 
 <img
-  align="right"
-  width="105"
-  hspace="18"
-  src="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/rainbow-cat-round.gif"
-  alt="Rainbow cat"
+align="right"
+width="220"
+hspace="0"
+src="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/rainbow-cat-round.gif"
+alt="Rainbow cat"
 />
 
-I like building things, taking systems apart to see what makes them tick, and benchmarking them until they do something weird.
+I like building things, messing around with systems, and whatever rabbit hole I'm digging into at the moment. Currently, that's agent harnesses and security scanning.
 
-My PhD work is mostly around **distributed storage and key management** — especially what happens when requests pile up, nodes disappear, or failover has to work for real instead of just looking nice in a diagram.
+My PhD work focuses mostly on **distributed storage and key management**, particularly how these systems behave under load and during failures.
 
-When I'm not doing that, I'm usually messing with **NixOS, self-hosting, small local models, agent tooling, developer tools**, or some infrastructure idea that was supposed to take 20 minutes.
+Outside of that, I spend a lot of time with **NixOS, self-hosting, small local models, agent tooling, developer tools**, and side projects that tend to grow a bit out of the original scope.
 
-The usual pattern goes something like this:
+A fairly common sequence of events:
 
-> Find a tool → try it → find one annoying thing → try four alternatives → “fine, I'll do it myself.”
+> Find a tool → try it → hit one annoying limitation → try a few alternatives → build something instead.
 
 <br clear="right" />
 
@@ -47,9 +47,7 @@ The usual pattern goes something like this:
 
 `distributed systems` `storage` `security` `performance`
 
-My PhD work in code form: distributed KMS designs for storage systems, with a focus on the **request path, scaling, and failure**.
-
-The interesting part usually starts when the happy path stops being happy.
+A large part of my PhD work revolves around distributed KMS designs for storage systems, with a focus on **request handling, scaling, and failure behavior**.
 
 <br>
 
@@ -62,7 +60,7 @@ The interesting part usually starts when the happy path stops being happy.
 
 A control plane for **heterogeneous infrastructure**.
 
-Real machines, services, and environments rarely look as uniform as architecture diagrams make them look. Ground Control is my attempt to embrace that instead of hiding it.
+Machines, services, and environments are rarely as uniform as we'd like them to be. Ground Control is an attempt to manage that. It supports Proxmox and Xen Orchestra through a unified interface and is inherently designed in such a way, that other control planes can be easily integrated.
 
 <br>
 
@@ -76,9 +74,9 @@ Real machines, services, and environments rarely look as uniform as architecture
 
 `local AI` `agents` `LLMs` `benchmarking`
 
-How far can you push a small local model if the **harness does more of the work**?
+I'm interested in how capable small local models can become when more of the work is handled by the surrounding **harness and tooling**.
 
-I've been benchmarking tool policies, delegation, context, and failure modes instead of just swapping models and eyeballing the output.
+I've been experimenting with tool policies, delegation, context management, and failure modes, with an emphasis on measuring what actually changes rather than just swapping models.
 
 <br>
 
@@ -89,9 +87,9 @@ I've been benchmarking tool policies, delegation, context, and failure modes ins
 
 `NixOS` `Linux` `containers` `homelab`
 
-My NixOS config stopped being just a config a while ago.
+My NixOS config has gradually turned into a place for experimenting with more than just machine configuration.
 
-It's now where I experiment with **reproducibility, Wayland, containers, self-hosting, multi-machine setups**, and whatever else I've decided should probably be declarative.
+It covers **reproducibility, Wayland, containers, self-hosting, multi-machine setups**, and various things I've decided would be nicer to manage declaratively.
 
 <br>
 
@@ -103,19 +101,17 @@ It's now where I experiment with **reproducibility, Wayland, containers, self-ho
 
 ## 🌱 Open source
 
-I tend to contribute upstream when a bug is easier to fix than work around.
+I usually contribute upstream when fixing something makes more sense than maintaining a workaround.
 
 Some recent examples:
 
-- **[TokenTracker](https://github.com/xiufengsun/TokenTracker)** — Linux/NixOS and WSL support, provider integrations, parser work, and making token accounting less wrong.  
-  [NixOS process + port detection](https://github.com/xiufengsun/TokenTracker/pull/579) · [Command Code limits](https://github.com/xiufengsun/TokenTracker/pull/594) · [Antigravity token accounting](https://github.com/xiufengsun/TokenTracker/pull/599) · [DeepSeek Harness v3](https://github.com/xiufengsun/TokenTracker/pull/614)
+* **[TokenTracker](https://github.com/xiufengsun/TokenTracker)** - Linux/NixOS and WSL support, provider integrations, parser work, and token accounting fixes.
+  [Antigravity process + port detection](https://github.com/xiufengsun/TokenTracker/pull/579) · [Command Code limits](https://github.com/xiufengsun/TokenTracker/pull/594) · [Antigravity token accounting](https://github.com/xiufengsun/TokenTracker/pull/599) · [DeepSeek Harness v3](https://github.com/xiufengsun/TokenTracker/pull/614)
 
-- **[Serpantinum](https://github.com/ilyamiro/serpantinum)** — fixes around Wayland desktop behavior and display-manager integration.  
+* **[Serpantinum](https://github.com/ilyamiro/serpantinum)** - fixes around Wayland desktop behavior and display-manager integration.
   [SDDM compositor handling](https://github.com/ilyamiro/serpantinum/pull/282) · [autohide tray behavior](https://github.com/ilyamiro/serpantinum/pull/249)
 
-- **Specht** — security tooling, vulnerability management, and the occasional fix that turns out to be considerably less small than expected.
-
-A tiny bug turning into an afternoon spent understanding a completely different subsystem is, apparently, a recurring theme.
+* **Specht** - security tooling, vulnerability management, and fixes that occasionally require learning far more about a subsystem than expected.
 
 ---
 
@@ -154,13 +150,12 @@ A tiny bug turning into an afternoon spent understanding a completely different 
 </div>
 
 <p align="center">
-  Most of my actual coding happens in <strong>Go</strong> and <strong>Python</strong>. The rest tends to show up whenever the problem insists.
+  Most of my day-to-day coding is in <strong>Go</strong> and <strong>Python</strong>. The rest depends on whatever I'm working on.
 </p>
 
-I usually end up building **backend services, research prototypes, developer tools, automation, benchmarks, dashboards**, and things I got tired of looking for.
+Most of what I build falls somewhere around **backend services, research prototypes, developer tools, automation, benchmarks, dashboards**, and small tools that solve problems I keep running into.
 
-<!--
-Enable this once the personal website/blog has an RSS or Atom feed.
+<!-- TODO
 
 ---
 
@@ -224,5 +219,5 @@ BLOG-POST-LIST:END
 ---
 
 <p align="center">
-  <i>Building things, breaking things, and occasionally pretending that was the plan.</i>
+  <i>Usually building something, debugging something, or figuring out why it behaves differently than expected.</i>
 </p>
