@@ -127,12 +127,12 @@ If something can be **benchmarked, automated, self-hosted, customized, or taken 
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/xMinhx/xMinhx/readme-assets/stats.svg"
+    src="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/stats.svg"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://raw.githubusercontent.com/xMinhx/xMinhx/readme-assets/top-langs.svg"
+    src="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/top-langs.svg"
     height="165"
     alt="Top languages"
   />
@@ -141,7 +141,7 @@ If something can be **benchmarked, automated, self-hosted, customized, or taken 
 <div align="center">
   <img
     height="165"
-    src="https://streak-stats.demolab.com?user=xMinhx&theme=dracula&hide_border=true&border_radius=5&mode=weekly"
+    src="https://streak-stats.demolab.com?user=minh-tg&theme=dracula&hide_border=true&border_radius=5&mode=weekly"
     alt="GitHub streak"
   />
 </div>
@@ -152,15 +152,15 @@ If something can be **benchmarked, automated, self-hosted, customized, or taken 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/xMinhx/xMinhx/readme-assets/snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/xMinhx/xMinhx/readme-assets/snake.svg"
+      srcset="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/snake.svg"
     />
     <img
       alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/xMinhx/xMinhx/readme-assets/snake.svg"
+      src="https://raw.githubusercontent.com/minh-tg/minh-tg/readme-assets/snake.svg"
     />
   </picture>
 </div>
